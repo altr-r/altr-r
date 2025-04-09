@@ -26,6 +26,6 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,kotlin,maven,gradle,python,php,laravel,go,nodejs,nuxt,express,prisma,vite,pug,html,css,sass,js,ts,vue,pinia,svelte,vscode,cs,nginx,unity,electron&perline=9" />
+    <img src="https://skillicons.dev/icons?i=python,cpp,html,css,tailwind,js,react,go,nodejs,nuxt,express,prisma,vite,pug,html,css,sass,js,ts,vue,pinia,svelte,vscode,cs,nginx,unity,electron&perline=9" />
   </a>
 </p>
