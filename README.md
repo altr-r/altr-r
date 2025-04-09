@@ -26,6 +26,6 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cpp,html,css,tailwind,js,vite,react,nodejs,express,mongodb,mint,vscode,clion,pycharm,css,sass,js,ts,vue,pinia,svelte,vscode,cs,nginx,unity,electron&perline=9" />
+    <img src="https://skillicons.dev/icons?i=python,anaconda,cpp,cmake,html,css,tailwind,js,vite,react,nodejs,express,mongodb,vscode,clion,visualstudio,pycharm,git,github,ps,ai,figma,npm,yarn,godot,mint,windows&perline=9" />
   </a>
 </p>
