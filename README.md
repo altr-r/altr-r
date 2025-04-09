@@ -1,4 +1,4 @@
-![](/Banners/Altr-Readme-Banner.jpg)
+![](/Banners/readmeBanner.png)
 
 <!-- <p align="center">
 
