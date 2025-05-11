@@ -39,11 +39,11 @@
 <br>
 
 <p align="center">
-    <a href="https://github.com/altr-r">
-        ![altr-r's Stats](https://github-readme-stats.vercel.app/api?username=altr-r&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-        ![altr-r's Streak](https://github-readme-streak-stats.herokuapp.com/?user=altr-r&theme=vue-dark&hide_border=true)
-        ![altr-r's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=altr-r&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-    </a> 
+  <a href="https://github.com/altr-r">
+    <img src="https://github-readme-stats.vercel.app/api?username=altr-r&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=altr-r&theme=vue-dark&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=altr-r&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" />
+  </a>
 </p>
 
 <p align="center">
