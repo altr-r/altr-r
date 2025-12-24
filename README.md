@@ -38,11 +38,12 @@
 
 <br>
 
+<!--
 <p align="center">
   <a href="https://github.com/altr-r">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=altr-r&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" />
   </a>
-</p>
+</p> -->
 
 <p align="center">
   <a href="https://github.com/altr-r">
