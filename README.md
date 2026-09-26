@@ -4,7 +4,9 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,go,cpp,html,css,tailwind,js,nodejs,react,express,mongodb,vscode,git,github,ubuntu&perline=9" />
+    <img src="https://skillicons.dev/icons?i=python,go,cpp,html,css,tailwind,js,nodejs,react&perline=9" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=express,mongodb,vscode,git,github,ubuntu&perline=6" />
   </a>
 </p>
 
