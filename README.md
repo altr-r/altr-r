@@ -1,28 +1,6 @@
 ![](/Banners/readmeBanner.png)
 
-<!-- <p align="center">
 
-<a href="mailto:contact@anafro.ru">
-    <img src="/Badges/Mail__1.svg" height="24">
-</a>
-
-<a href="https://t.me/anafro_ru">
-<img src="/Badges/Telegram__2.svg" height="24">
-</a>
-
-<a href="https://anafro.ru">
-<img src="/Badges/Site__3.svg" height="24">
-</a>
-
-<a href="https://vk.com/anafro">
-<img src="/Badges/VK__4.svg" height="24">
-</a>
-
-<a href="https://discord.com/users/398742003556548618/">
-<img src="/Badges/Discord__5.svg" height="24">
-</a>
-
-</p> -->
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -37,11 +15,5 @@
 </div>
 
 <br>
-
-<p align="center">
-  <a href="https://github.com/altr-r">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=altr-r&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" />
-  </a>
-</p>
 
 <h2  align="center">💻 Check Out My Repos ⬇️ </h2>
