@@ -16,8 +16,6 @@
     <a target="_blank" href="mailto:arafatrahman0012@gmail.com"><img src="https://img.shields.io/badge/-arafatrahman0012@gmail.com-D14836?style=flat&logoColor=white"/></a>
 </div>
 
-<br>
-
 <div align="center">
     <img src="koi/koi.gif" width="256" alt="My koi" />
 </div>
