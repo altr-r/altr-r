@@ -2,10 +2,6 @@
     <img src="/Banners/readmeBanner.png" width="100%" height="300" alt="Readme Banner" />
 </div>
 
-
-
-
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,go,cpp,html,css,tailwind,js,nodejs,react&perline=9" />
@@ -14,13 +10,11 @@
   </a>
 </p>
 
+<div align="center">
+    <img src="koi/koi.gif" width="256" alt="My koi" />
+</div>
 
 <div align="center">
     <a href="https://www.linkedin.com/in/arafatrahmansiam/" target="_blank"><img src="https://img.shields.io/badge/-Arafat%20Rahman-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
     <a target="_blank" href="mailto:arafatrahman0012@gmail.com"><img src="https://img.shields.io/badge/-arafatrahman0012@gmail.com-D14836?style=flat&logoColor=white"/></a>
 </div>
-
-<div align="center">
-    <img src="koi/koi.gif" width="256" alt="My koi" />
-</div>
-
