@@ -1,4 +1,4 @@
-![](/Banners/readmeBanner.png)
+<img src="/Banners/readmeBanner.png" width="50%" alt="Readme Banner" />
 
 
 
