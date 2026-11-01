@@ -1,7 +1,4 @@
-<div align="center">
-    <img src="/Banners/readmeBanner.png" width="100%" height="200" alt="Readme Banner" />
-</div>
-
+![](/Banners/readmeBanner.png)
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,go,cpp,html,css,tailwind,js,nodejs,react&perline=9" />
