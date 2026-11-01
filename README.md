@@ -1,4 +1,8 @@
-<img src="/Banners/readmeBanner.png" width="50%" alt="Readme Banner" />
+<div align="center">
+    <img src="/Banners/readmeBanner.png" height="50%" alt="Readme Banner" />
+</div>
+
+
 
 
 
